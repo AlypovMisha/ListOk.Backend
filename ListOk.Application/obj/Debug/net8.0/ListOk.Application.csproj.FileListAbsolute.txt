@@ -1,0 +1,15 @@
+C:\Users\Миша\source\repos\ListOk.Application\bin\Debug\net8.0\ListOk.Application.deps.json
+C:\Users\Миша\source\repos\ListOk.Application\bin\Debug\net8.0\ListOk.Application.dll
+C:\Users\Миша\source\repos\ListOk.Application\bin\Debug\net8.0\ListOk.Application.pdb
+C:\Users\Миша\source\repos\ListOk.Application\bin\Debug\net8.0\ListOk.Core.dll
+C:\Users\Миша\source\repos\ListOk.Application\bin\Debug\net8.0\ListOk.Core.pdb
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.csproj.AssemblyReference.cache
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.AssemblyInfo.cs
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.A.0B716B1A.Up2Date
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.dll
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\refint\ListOk.Application.dll
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ListOk.Application.pdb
+C:\Users\Миша\source\repos\ListOk.Application\obj\Debug\net8.0\ref\ListOk.Application.dll
