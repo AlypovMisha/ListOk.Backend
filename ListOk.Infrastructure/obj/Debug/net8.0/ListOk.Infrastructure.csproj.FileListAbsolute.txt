@@ -1,0 +1,15 @@
+C:\Users\Миша\source\repos\ListOk.Infrastructure\bin\Debug\net8.0\ListOk.Infrastructure.deps.json
+C:\Users\Миша\source\repos\ListOk.Infrastructure\bin\Debug\net8.0\ListOk.Infrastructure.dll
+C:\Users\Миша\source\repos\ListOk.Infrastructure\bin\Debug\net8.0\ListOk.Infrastructure.pdb
+C:\Users\Миша\source\repos\ListOk.Infrastructure\bin\Debug\net8.0\ListOk.Core.dll
+C:\Users\Миша\source\repos\ListOk.Infrastructure\bin\Debug\net8.0\ListOk.Core.pdb
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.AssemblyInfo.cs
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.I.19E06AAE.Up2Date
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.dll
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\refint\ListOk.Infrastructure.dll
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ListOk.Infrastructure.pdb
+C:\Users\Миша\source\repos\ListOk.Infrastructure\obj\Debug\net8.0\ref\ListOk.Infrastructure.dll

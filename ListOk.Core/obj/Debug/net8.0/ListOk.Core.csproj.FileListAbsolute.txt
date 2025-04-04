@@ -1,0 +1,11 @@
+C:\Users\Миша\source\repos\ListOk.Core\bin\Debug\net8.0\ListOk.Core.deps.json
+C:\Users\Миша\source\repos\ListOk.Core\bin\Debug\net8.0\ListOk.Core.dll
+C:\Users\Миша\source\repos\ListOk.Core\bin\Debug\net8.0\ListOk.Core.pdb
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ListOk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ListOk.Core.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ListOk.Core.AssemblyInfo.cs
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ListOk.Core.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ListOk.Core.dll
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\refint\ListOk.Core.dll
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ListOk.Core.pdb
+C:\Users\Миша\source\repos\ListOk.Core\obj\Debug\net8.0\ref\ListOk.Core.dll
